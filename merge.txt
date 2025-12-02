@@ -1,1 +1,3 @@
 how to pull and merge
+i am about to add some changes to the file
+
